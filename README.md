@@ -5,6 +5,8 @@
 
 所有版本收集于高德官方论坛：https://lbsbbs.amap.com/forum.php?mod=viewthread&tid=62072&extra=page%3D2%26filter%3Dtypeid%26typeid%3D84
 
+添加以往老旧版本：https://lbsbbs.amap.com/forum.php?mod=viewthread&tid=47731&extra=page%3D1
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 AUTO V6.1.0 内测版 
 
