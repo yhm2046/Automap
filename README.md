@@ -6,7 +6,11 @@
 所有版本收集于高德官方论坛:https://lbsbbs.amap.com/forum.php?mod=viewthread&tid=62072&extra=page%3D2%26filter%3Dtypeid%26typeid%3D84
 
 老旧版本:https://lbsbbs.amap.com/forum.php?mod=viewthread&tid=47731&extra=page%3D1
-
+---------------------------------------------------------------------------------
+AUTO V6.2.0 正式版：Auto_V6.2.0.601346_release_signed，2022-08-09
+1.增加分时车道
+2.增加洗车服务
+3.直接美食团购
 -------------------------------------------------------------------------------
 AUTO V6.2.0 内部测试版：Auto_6.2.0.600857_alpha，2022-06-21
 1.增加分时车道
