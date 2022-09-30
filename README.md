@@ -1,7 +1,7 @@
 # Automap
 高德地图车机版
 
-不定期更新，收集版本:v4.5-v6.1
+不定期更新，收集版本:v4.5-v6.5
 
 所有版本收集于高德官方论坛:https://lbsbbs.amap.com/forum.php?mod=viewthread&tid=62072&extra=page%3D2%26filter%3Dtypeid%26typeid%3D84
 
