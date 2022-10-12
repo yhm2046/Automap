@@ -8,7 +8,7 @@
 老旧版本:https://lbsbbs.amap.com/forum.php?mod=viewthread&tid=47731&extra=page%3D1
 ---------------------------------------------------------------------------------
 AUTO V6.5.0 众测版
-版本号:Auto_6.5.0.601328_release_signed
+版本号:Auto_6.5.0.601328_alpha
 发布日期:2022-09-29,Thursday
 更新信息:
 1：显示红绿灯等待时间
